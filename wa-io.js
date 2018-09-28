@@ -4,7 +4,7 @@
             email: "office@muliareadymix.com", // Email
             sms: "+6287741114299", // Sms phone number
             call: "+6282122929433", // Call phone number
-            company_logo_url: "//www.muliareadymix.com/wp-content/uploads/2018/03/favicon-1.png", // URL of company logo (png, jpg, gif)
+            company_logo_url: "//3.bp.blogspot.com/-NEnCPBo1X1E/W64EI1PUeqI/AAAAAAAAACQ/Iyns_6JYSlIdrfmWXY1oT1Pvsshbt49EgCLcBGAs/s1600/favicon.png", // URL of company logo (png, jpg, gif)
             greeting_message: "Hallo, ada yang bisa kami bantu? Silahkan tinggalkan pesan sekarang.", // Text of greeting message
             call_to_action: "Hubungi Kami", // Call to action
             button_color: "#129BF4", // Color of button
