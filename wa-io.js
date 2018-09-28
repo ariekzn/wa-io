@@ -8,6 +8,7 @@
             button_color: "#129BF4", // Color of button
             position: "right", // Position may be 'right' or 'left'
             order: "whatsapp,call,sms,email" // Order of buttons
+            
         };
         var proto = document.location.protocol, host = "whatshelp.io", url = proto + "//static." + host;
         var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = url + '/widget-send-button/js/init.js';
